@@ -73,7 +73,6 @@ monster.run do
 
 monster.hide do |monster|
   puts "Runs and hides!"
-  puts monster
   end
 
 monster.print_scoreboard
